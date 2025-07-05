@@ -25,7 +25,7 @@ This project is a real-time assistant for the visually impaired, capable of dete
 # 1. Clone the repository
 
 bash
-git clone https://github.com/aarsha36/scene-assistant.git
+git clone https://github.com/aarsha36/scene_description_assistant.git
 cd scene-assistant
 
 2. Create and activate a virtual environment (recommended)

@@ -1,0 +1,7 @@
+ultralytics==8.0.219
+torch>=2.0.0
+transformers>=4.36.2
+opencv-python
+Pillow
+matplotlib
+pyttsx3
